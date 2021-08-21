@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
+      integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Load imgs dynamically</title>
+  </head>
+  <body>
+    <h1>Our <span class="purple">Store</span></h1>
+    <div class="buttons">
+      <button class="cake-btn">Cakes</button>
+      <button class="cup-cake">Cup cakes</button>
+      <button class="sweet">Sweets</button>
+    </div>
+
+    <div class="cake-c">
+      <img src="" alt="" class="cake1" />
+      <img src="" alt="" class="cake2" />
+      <img src="" alt="" class="cake3" />
+      <img src="" alt="" class="cake4" />
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
